@@ -1,0 +1,8 @@
+dependencies: \
+  /Volumes/Work/SourceTree/Parking/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
+  /Volumes/Work/SourceTree/Parking/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
+  /Volumes/Work/SourceTree/Parking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Work/SourceTree/Parking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Volumes/Work/SourceTree/Parking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Work/SourceTree/Parking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/SourceTree/Parking/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h
