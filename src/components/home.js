@@ -25,7 +25,7 @@ class HomeScreen extends Component {
 
     this.state = {
       mine: true,
-      renterData: ['Shiru Sun', 'Yan Cheng', 'Robin', 'Lun li', 'HaiMian Zhang'],
+      renterData: ['Shiru Sun', 'Yan Cheng', 'Robin', 'Lun li'],
       mineData: ['John Smith'],
       showDetail: false,
       detailItem: null,
